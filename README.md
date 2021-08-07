@@ -14,8 +14,8 @@ Resolvendo questões de entrevistas técnicas FAANG
 ### [Questões](https://www.interviewbit.com/facebook-interview-questions/)
 
 * [Best Time to Buy and Sell Stocks I](https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i/)
-* [Square Root of Integer](https://www.interviewbit.com/problems/square-root-of-integer/)
-* [Evaluate Expression](https://www.interviewbit.com/problems/evaluate-expression/) 
+* [Reverse The String](https://www.interviewbit.com/problems/reverse-the-string/)
+* [Evaluate Expression](https://www.interviewbit.com/problems/evaluate-expression/)
 
 Assista ao [vídeo](https://youtu.be/0HvJj3ZsOm4) com as soluções.
 
