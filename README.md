@@ -7,6 +7,18 @@ Resolvendo questões de entrevistas técnicas FAANG
 * https://leetcode.com
 * https://hackerrank.com
 
+## Resolvendo questões de entrevistas técnicas do Facebook | PROBLEMA TÉCNICO #02
+
+![PROBLEMA TÉCNICO #02](https://i.ytimg.com/vi/0HvJj3ZsOm4/mqdefault.jpg)
+
+### [Questões](https://www.interviewbit.com/facebook-interview-questions/)
+
+* [Best Time to Buy and Sell Stocks I](https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i/)
+* [Square Root of Integer](https://www.interviewbit.com/problems/square-root-of-integer/)
+* [Evaluate Expression](https://www.interviewbit.com/problems/evaluate-expression/) 
+
+Assista ao [vídeo](https://youtu.be/0HvJj3ZsOm4) com as soluções.
+
 
 ## Resolvendo questões de entrevistas técnicas do GOOGLE | PROBLEMA TÉCNICO #01
 
