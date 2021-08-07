@@ -11,7 +11,7 @@ Resolvendo questões de entrevistas técnicas FAANG
 
 ![PROBLEMA TÉCNICO #02](https://i.ytimg.com/vi/0HvJj3ZsOm4/mqdefault.jpg)
 
-### [Questões](https://www.interviewbit.com/facebook-interview-questions/)
+### Questões do [InterviewBit](https://www.interviewbit.com/facebook-interview-questions/)
 
 * [Best Time to Buy and Sell Stocks I](https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i/)
 * [Reverse The String](https://www.interviewbit.com/problems/reverse-the-string/)
