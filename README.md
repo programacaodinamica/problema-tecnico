@@ -7,6 +7,21 @@ Resolvendo questões de entrevistas técnicas FAANG
 * https://leetcode.com
 * https://hackerrank.com
 
+## Resolvendo questões de entrevistas técnicas da Amazon | PROBLEMA TÉCNICO #03
+
+[Tópicos de Software de questões da Amazon](https://www.amazon.jobs/en/landing_pages/software-development-topics)
+
+![PROBLEMA TÉCNICO #03](https://i.ytimg.com/vi/OFAbSGrDiAU/mqdefault.jpg)
+
+### Questões do [InterviewBit](https://www.interviewbit.com/facebook-interview-questions/)
+
+
+* [Majority Element](https://www.interviewbit.com/problems/majority-element/)
+* [Ways to Decode](https://www.interviewbit.com/problems/ways-to-decode/)
+* [Max Product Subarray](https://www.interviewbit.com/problems/max-product-subarray/)
+
+Assista ao [vídeo](https://youtu.be/OFAbSGrDiAU) com as soluções.
+
 ## Resolvendo questões de entrevistas técnicas do Facebook | PROBLEMA TÉCNICO #02
 
 ![PROBLEMA TÉCNICO #02](https://i.ytimg.com/vi/0HvJj3ZsOm4/mqdefault.jpg)
